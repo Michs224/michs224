@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋! I'm Mich</h1>
 
+###
+
 <h2 align="center">A curious and motivated individual, focused on leveraging data, AI, and innovative technologies to solve real-world problems.</h2>
 
+###
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michs224&theme=one-dark&area=true&hide_border=false&hide_title=false&custom_title=Mich's%20Contribution%20Graph" height="400" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michs224&theme=one-dark&area=true&hide_border=false&hide_title=false&custom_title=Mich's%20Contribution%20Graph" height="350" alt="activity-graph graph"  />
 </div>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
