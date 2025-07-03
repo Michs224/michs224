@@ -12,6 +12,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -76,6 +78,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michs224/michs224/output/pacman-contribution-graph-dark.svg">
