@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi👋,%20I%27m%20Mich&fontSize=50&animation=scaleIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descSize=20&descAlignY=55&descAlign=50&section=header"/>
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi👋,%20I%27m%20Mich&fontSize=50&animation=scaleIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descSize=20&descAlignY=55&descAlign=50&section=header"/>
+</div>
 
-###
+##
 
 <h2 align="center">A curious and motivated individual, focused on leveraging data, AI, and innovative technologies to solve real-world problems.</h2>
 
