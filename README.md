@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I'm Mich</h1>
+<h1 align="center">Hi 👋! I'm Mich<br>AI Engineer | Data Scientist | ML Engineer</h1>
 
 ###
 
@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michs224&theme=one-dark&area=true&hide_border=false&hide_title=false&custom_title=Mich's%20Contribution%20Graph" height="350" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michs224&theme=one-dark&area=true&hide_border=false&hide_title=false&custom_title=Mich's%20Contribution%20Graph" height="500" alt="activity-graph graph"  />
 </div>
 
 ###
