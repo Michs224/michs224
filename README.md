@@ -8,9 +8,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=michs224&theme=one-dark&area=true&hide_border=false&hide_title=false&custom_title=Mich's%20Contribution%20Graph" height="500" alt="activity-graph graph"  />
-</div>
+</div> -->
 
 ###
 
@@ -33,6 +33,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
@@ -76,11 +77,15 @@
     <td align="center" valign="top">
       <h4>🔹 Vector Databases</h4>
       <p>
-        <img src="https://img.shields.io/badge/Pinecone-0070f3?style=for-the-badge" alt="Pinecone" />
-        <br />
-        <img src="https://img.shields.io/badge/Weaviate-764abc?style=for-the-badge" alt="Weaviate" />
-        <br />
-        <img src="https://img.shields.io/badge/Chroma-000000?style=for-the-badge" alt="Chroma" />
+        <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus" />
+        <br />
+        <img src="https://img.shields.io/badge/Chroma-FF6B4A?style=for-the-badge&logoColor=white" alt="Chroma" />
+        <br />
+        <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+        <br />
+        <img src="https://img.shields.io/badge/Pinecone-0070f3?style=for-the-badge" alt="Pinecone" />
+        <br />
+        <img src="https://img.shields.io/badge/Weaviate-764abc?style=for-the-badge" alt="Weaviate" />
       </p>
     </td>
   </tr>
